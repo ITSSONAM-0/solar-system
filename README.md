@@ -33,3 +33,20 @@ You can see the solar system in action by opening `index.html` in your browser.
 
 ---
 
+2  .Open index.html in your browser.
+
+3. Interact with the UI panel:
+ > Adjust planet speeds using sliders.
+
+>Pause/Resume the animation.
+
+>Select a planet to focus the camera.
+
+>Click a planet to zoom in smoothly.
+
+>Toggle orbit paths on/off.
+
+>Switch between Light/Dark Mode.
+
+>Reset the camera using Reset View button.
+
