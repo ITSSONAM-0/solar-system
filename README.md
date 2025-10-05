@@ -33,5 +33,3 @@ You can see the solar system in action by opening `index.html` in your browser.
 
 ---
 
-## 📂 Project Structure
-
