@@ -50,3 +50,13 @@ You can see the solar system in action by opening `index.html` in your browser.
 
 >Reset the camera using Reset View button.
 
+ 🔧 Customization
+
+Add more planets or moons: Update planetData in script.js.
+
+Change planet textures: Replace images in the textures folder.
+
+Adjust orbit speeds: Modify the slider ranges or default speeds in script.js.
+
+Change camera distance: Modify initial camera.position.z in script.js.
+
