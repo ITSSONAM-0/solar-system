@@ -70,3 +70,5 @@ You can see the solar system in action by opening `index.html` in your browser.
 
 >Optimize starfield rendering for better performanc
 
+live - https://itssonam-0.github.io/solar-system/
+
