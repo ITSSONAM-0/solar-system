@@ -2,7 +2,7 @@
 
 An interactive, **3D Solar System simulation** built with **Three.js** and **GSAP**. Explore the planets, their orbits, and enjoy interactive features like adjustable speeds, camera focus, and theme toggles.
 
----
+
 
 ## 🌟 Features
 
@@ -17,7 +17,7 @@ An interactive, **3D Solar System simulation** built with **Three.js** and **GSA
 - **Starfield Background**: Realistic stars to enhance space experience.
 - **Saturn Rings**: Special ring for Saturn for realism.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -25,50 +25,37 @@ An interactive, **3D Solar System simulation** built with **Three.js** and **GSA
 - [GSAP](https://greensock.com/gsap/) - Smooth animations (camera zoom, transitions).
 - HTML, CSS, JavaScript - Core web technologies.
 
----
+
 
 ## 🎨 Demo
 
 You can see the solar system in action by opening `index.html` in your browser.
 
----
+
 
 2  .Open index.html in your browser.
 
 3. Interact with the UI panel:
- > Adjust planet speeds using sliders.
-
->Pause/Resume the animation.
-
->Select a planet to focus the camera.
-
->Click a planet to zoom in smoothly.
-
->Toggle orbit paths on/off.
-
->Switch between Light/Dark Mode.
-
->Reset the camera using Reset View button.
+- Adjust planet speeds using sliders.
+- Pause/Resume the animation.
+- Select a planet to focus the camera.
+- Click a planet to zoom in smoothly.
+- Toggle orbit paths on/off.
+- Switch between Light/Dark Mode.
+- Reset the camera using Reset View button.
 
  ##🔧 Customization
-
->Add more planets or moons: Update planetData in script.js.
-
->Change planet textures: Replace images in the textures folder.
-
->Adjust orbit speeds: Modify the slider ranges or default speeds in script.js.
-
->Change camera distance: Modify initial camera.position.z in script.js.
+- Add more planets or moons: Update planetData in script.js.
+- Change planet textures: Replace images in the textures folder.
+- Adjust orbit speeds: Modify the slider ranges or default speeds in script.js.
+- Change camera distance: Modify initial camera.position.z in script.js.
 
 ##🎯 Future Enhancements
 
->Add Earth's Moon and other planetary moons.
-
->Display planetary info panels on click.
-
->Add sound effects for interactive exploration.
-
->Optimize starfield rendering for better performanc
+- Add Earth's Moon and other planetary moons.
+- Display planetary info panels on click.
+- Add sound effects for interactive exploration.
+- Optimize starfield rendering for better performanc
 
 live - https://itssonam-0.github.io/solar-system/
 
