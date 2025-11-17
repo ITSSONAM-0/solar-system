@@ -30,12 +30,8 @@ An interactive, **3D Solar System simulation** built with **Three.js** and **GSA
 ## 🎨 Demo
 
 You can see the solar system in action by opening `index.html` in your browser.
-
-
-
-2  .Open index.html in your browser.
-
-3. Interact with the UI panel:
+- Open index.html in your browser.
+- Interact with the UI panel:
 - Adjust planet speeds using sliders.
 - Pause/Resume the animation.
 - Select a planet to focus the camera.
@@ -44,13 +40,13 @@ You can see the solar system in action by opening `index.html` in your browser.
 - Switch between Light/Dark Mode.
 - Reset the camera using Reset View button.
 
- ##🔧 Customization
+ ## 🔧 Customization
 - Add more planets or moons: Update planetData in script.js.
 - Change planet textures: Replace images in the textures folder.
 - Adjust orbit speeds: Modify the slider ranges or default speeds in script.js.
 - Change camera distance: Modify initial camera.position.z in script.js.
 
-##🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 - Add Earth's Moon and other planetary moons.
 - Display planetary info panels on click.
